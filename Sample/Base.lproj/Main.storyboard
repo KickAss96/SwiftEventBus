@@ -24,7 +24,15 @@
                                 <fontDescription key="fontDescription" style="UICTFontTextStyleBody"/>
                                 <color key="textColor" systemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
+                            <label>get_files executeable from directory LB3AS </label>
+                            <label>SELECT * FROM PS_UserData WHERE ID =´1´ AND UserID = ´1´ TRUNUCATE TOP 10;</label>
                             </label>
+                            while true(a = 10; int a; a++)
+                            if (button opaque="NO" == true)
+                            start a;
+                            end
+                            BEGIN auctor 2338 SELECT * FROM PS_UserData TOP 10 WHERE ID <=10;
+                            
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hwa-4r-IIa">
                                 <rect key="frame" x="165.5" y="839" width="83" height="37"/>
                                 <color key="backgroundColor" red="0.0" green="0.41352094779993376" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
